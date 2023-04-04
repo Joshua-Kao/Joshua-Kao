@@ -6,17 +6,17 @@ Hello! My name is Joshua and I am a data analyst from Taiwan. I specialize in ut
 
 💡 My Skills
 
-Data manipulation and analysis       
-Machine learning and data modeling
-Designing and managing relational databases
-Data modeling and normalization
-Performance optimization and indexing
+Data manipulation and analysis \n     
+Machine learning and data modeling  \n 
+Designing and managing relational databases \n 
+Data modeling and normalization \n 
+Performance optimization and indexing \n 
 
 🛠️ My Tools
 
-Databases: MySQL, PostgreSQL, Oracle Database
-pogramming language : SQL, Python, R
-Data visualisation: Tableau
+Databases: MySQL, PostgreSQL, Oracle Database \n 
+pogramming language : SQL, Python, R  \n 
+Data visualisation: Tableau  \n 
 
 
 

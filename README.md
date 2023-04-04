@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-Introducing Myself 🙋🏻‍
+## Introducing Myself 🙋🏻‍
 
 Hello! My name is Joshua and I am a data analyst from Taiwan. I specialize in utilizing SQL, Python, and RStudio for data analysis and visualization. Additionally, I have a background in financial investments.Cancel changes
 
-💡 My Skills
+### 💡 My Skills
 
-Data manipulation and analysis
-Machine learning and data modeling
-Designing and managing relational databases
-Data modeling and normalization 
-Performance optimization and indexing 
+- Data manipulation and analysis
+- Machine learning and data modeling
+- Designing and managing relational databases
+- Data modeling and normalization 
+- Performance optimization and indexing 
 
-🛠️ My Tools
+### 🛠️ My Tools
 
-Databases: MySQL, PostgreSQL, Oracle Database
-pogramming language : SQL, Python, R
-Data visualisation: Tableau 
+- Databases: MySQL, PostgreSQL, Oracle Database
+- pogramming language : SQL, Python, R
+- Data visualisation: Tableau 
 
 
 
